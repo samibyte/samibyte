@@ -1,5 +1,6 @@
-<img src="./githubbanner-ezgif.com-crop.gif" alt="Hello world">
-# 💫 About Me:
+<div align="center"><img src="./githubbanner-ezgif.com-crop.gif" alt="Hello world" width="1920"></div>
+
+## 💫 About Me:
 I’m Adnan Sami<br>I transform ideas into structured, functional web applications.<br>I prioritize clarity, stability, and thoughtful engineering, building systems that are as predictable as they are purposeful, and code that reflects careful design choices.
 
 
