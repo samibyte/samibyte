@@ -1,14 +1,22 @@
 <div align="center"><img src="./githubbanner-ezgif.com-crop.gif" alt="Hello world" width="1920"></div>
 
 ## 💫 About Me:
-I’m Adnan Sami<br>I transform ideas into structured, functional web applications.<br>I prioritize clarity, stability, and thoughtful engineering, building systems that are as predictable as they are purposeful, and code that reflects careful design choices.
+I’m a web developer who enjoys building things that feel simple to use and solid under the hood.
+I enjoy breaking down ideas, understanding how they work, and turning them into clean, dependable interfaces.
 
+I’m early in my career, but I’m intentional about how I grow. One project, one improvement, one solved problem at a time.
+I care about clarity, good design habits, and code that doesn’t fight back.
+
+Currently, I’m focused on refining my skills, learning from real-world challenges, and contributing to teams where thoughtful work truly matters.
+
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samibyte) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/samibyt3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samibyte.web@gmail.com) 
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=samibyte&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=samibyte&theme=blue_navy&hide_border=false)<br/>
