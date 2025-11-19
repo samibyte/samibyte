@@ -20,10 +20,7 @@ Currently, I’m focused on refining my skills, learning from real-world challen
 | **Database**          | ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)                                                          |
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) ! |
 
-
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samibyte) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/samibyt3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samibyte.web@gmail.com) 
-
+---
 
 ## GitHub Stats:
 | Top Languages | GitHub Stats | GitHub Streak |
@@ -36,6 +33,15 @@ Currently, I’m focused on refining my skills, learning from real-world challen
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
+
+## Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samibyte) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/samibyt3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samibyte.web@gmail.com) 
+
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=samibyte&icon=3&color=0)](https://visitcount.itsvg.in)
+
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
