@@ -44,4 +44,4 @@ Currently, I’m focused on refining my skills, learning from real-world challen
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="./wave.svg" alt="Hello world" width="1920">
