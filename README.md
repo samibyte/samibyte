@@ -26,6 +26,25 @@ Currently, I’m focused on refining my skills, learning from real-world challen
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samibyte&layout=compact&theme=radical) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samibyte&theme=transparent&hide_border=true&include_all_commits=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samibyte&theme=transparent&hide_border=true) |
 
 
+<p>
+<picture>
+  <source srcset="https://github.com/levvolkov/github_stats/blob/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+  <img src="https://github.com/levvolkov/github_stats/blob/main/output/stats_commits.svg">
+</picture>
+<picture>
+  <source srcset="https://github.com/levvolkov/github_stats/blob/main/output/stats_langs.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+  <img src="https://github.com/levvolkov/github_stats/blob/main/output/stats_langs.svg">
+</picture>
+<picture>
+  <source srcset="https://github.com/levvolkov/github_stats/blob/main/output/stats_general.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+  <img src="https://github.com/levvolkov/github_stats/blob/main/output/stats_general.svg">
+</picture>
+<picture>
+  <source srcset="https://github.com/levvolkov/github_stats/blob/main/output/stats_visitors.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+  <img src="https://github.com/levvolkov/github_stats/blob/main/output/stats_visitors.svg">
+</picture>
+</p>
+
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
