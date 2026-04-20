@@ -9,8 +9,8 @@ I care about clarity, good design habits, and code that doesn’t fight back.
 
 Currently, I’m focused on refining my skills, learning from real-world challenges, and contributing to teams where thoughtful work truly matters.
 
-
 # Tech Stack:
+<div align="center">
 
 |       Skills Overview        | Technologies                                                                                                                                                                                                                          |
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -20,13 +20,12 @@ Currently, I’m focused on refining my skills, learning from real-world challen
 | **Database**          | ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) |
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)  ![Linux](https://img.shields.io/badge/Linux-%23000000?style=flat&logo=linux&logoColor=white) |
 
-## GitHub Stats:
+</div>
+
+# GitHub Stats:
+<div align="center">
+
 <p>
-<!-- Statistics: Commit series -->
-<picture>
-  <source srcset="https://raw.githubusercontent.com/samybyte/statcard-repo/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-  <img src="https://raw.githubusercontent.com/samybyte/statcard-repo/main/output/stats_commits.svg">
-</picture>
 <!-- Statistics: Programming languages -->
 <picture>
   <source srcset="https://raw.githubusercontent.com/samibyte/statcard-repo/main/output/stats_langs.svg#gh-dark-mode-only"  media="(prefers-color-scheme: dark)">
@@ -37,16 +36,16 @@ Currently, I’m focused on refining my skills, learning from real-world challen
   <source srcset="https://raw.githubusercontent.com/samibyte/statcard-repo/main/output/stats_general.svg#gh-dark-mode-only"  media="(prefers-color-scheme: dark)">
   <img src="https://raw.githubusercontent.com/samibyte/statcard-repo/main/output/stats_general.svg">
 </picture>
-<!-- Statistics: Unique repository visitors -->
-<picture>
-  <source srcset="https://raw.githubusercontent.com/samibyte/statcard-repo/main/output/stats_visitors.svg#gh-dark-mode-only"  media="(prefers-color-scheme: dark)">
-  <img src="https://raw.githubusercontent.com/samibyte/statcard-repo/main/output/stats_visitors.svg">
-</picture>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=samibyte&theme=shadow-blue&mode=weekly)](https://git.io/streak-stats)
+
 </p>
+
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+</div>
 ---
 
 ## Socials:
