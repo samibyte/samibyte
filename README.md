@@ -22,7 +22,7 @@ Currently, I’m focused on refining my skills, learning from real-world challen
 
 </div>
 
-# GitHub Stats:
+## GitHub Stats:
 <div align="center">
 
 <p>
@@ -46,7 +46,7 @@ Currently, I’m focused on refining my skills, learning from real-world challen
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
----
+
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samibyte) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/samibyt3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samibyte.web@gmail.com) 
