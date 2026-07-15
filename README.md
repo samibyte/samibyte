@@ -23,10 +23,10 @@ I'm always learning, improving my craft, and looking for opportunities to build 
 
 ## 🚀 Currently
 
--🛠️ Building full-stack applications with React, Next.js and Node.js
--🔭Exploring scalable backend architecture with PostgreSQL
--💡Improving application performance and code quality
--🤝 Open to remote Full Stack Developer opportunities
+- 🛠️ Building full-stack applications with React, Next.js and Node.js
+- 🔭Exploring scalable backend architecture with PostgreSQL
+- 💡Improving application performance and code quality
+- 🤝 Open to remote Full Stack Developer opportunities
 
 <br>
 
