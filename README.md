@@ -2,10 +2,6 @@
 <img src="./githubbanner.gif" alt="samibyte github banner" width="100%">
 </div>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=samibyte&label=Profile%20Views&color=38BDF8&style=flat" alt="profile views" />
-</p>
-
 <div align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Building+fast+and+reliable+web+apps;React+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL;Remote-friendly+and+always+improving" alt="Typing SVG" /> </a> </div>
 
 
@@ -88,6 +84,9 @@ I'm always learning, improving my craft, and looking for opportunities to build 
   </a>
 </p>
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=samibyte&label=Profile%20Views&color=38BDF8&style=flat" alt="profile views" />
+</p>
 <br>
 
 <img src="./wave.svg" alt="wave" width="100%">
