@@ -2,6 +2,10 @@
 <img src="./githubbanner.gif" alt="samibyte github banner" width="100%">
 </div>
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=samibyte&label=Profile%20Views&color=38BDF8&style=flat" alt="profile views" />
+</p>
+
 <div align="center">
 
 <a href="https://git.io/typing-svg">
@@ -10,10 +14,6 @@
 
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=samibyte&label=Profile%20Views&color=38BDF8&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/samibyte?label=Followers&style=flat&color=38BDF8" alt="followers" />
-</p>
 
 <br>
 
@@ -39,7 +39,7 @@ Currently, I'm focused on refining my skills, learning from real-world challenge
 
 ## 🧰 Skills
 
-<div align="center">
+<div >
 
 **Languages**
 
@@ -70,11 +70,6 @@ Currently, I'm focused on refining my skills, learning from real-world challenge
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=samibyte&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samibyte&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Top Languages" height="165" />
-
-<br>
 
 <img src="https://streak-stats.demolab.com?user=samibyte&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
 
