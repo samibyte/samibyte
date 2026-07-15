@@ -1,54 +1,113 @@
-<div align="center"><img src="./githubbanner-ezgif.com-crop.gif" alt="Hello world" width="1920"></div>
+<div align="center">
+<img src="./githubbanner.gif" alt="samibyte github banner" width="100%">
+</div>
 
-## About Me:
-I’m a web developer who enjoys building things that feel simple to use and solid under the hood.
-I enjoy breaking down ideas, understanding how they work, and turning them into clean, dependable interfaces.
-
-I’m early in my career, but I’m intentional about how I grow. One project, one improvement, one solved problem at a time.
-I care about clarity, good design habits, and code that doesn’t fight back.
-
-Currently, I’m focused on refining my skills, learning from real-world challenges, and contributing to teams where thoughtful work truly matters.
-
-# Tech Stack:
 <div align="center">
 
-|       Skills Overview        | Technologies                                                                                                                                                                                                                          |
-|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Languages**         | ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) |
-| **Frontend Technologies** | ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-333333?style=flat&logo=tailwindcss) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js) |
-| **Back-End Development** | ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)                                                   |
-| **Database**          | ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) |
-| **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)  ![Linux](https://img.shields.io/badge/Linux-%23000000?style=flat&logo=linux&logoColor=white) |
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sami+%F0%9F%91%8B;Web+Developer;Frontend+%2B+Backend+Enthusiast;Building+clean%2C+dependable+interfaces" alt="Typing SVG" />
+</a>
 
 </div>
 
-## GitHub Stats:
-<div align="center">
-
-<p>
-<!-- Statistics: Programming languages -->
-<picture>
-  <source srcset="https://raw.githubusercontent.com/samibyte/statcard-repo/main/output/stats_langs.svg#gh-dark-mode-only"  media="(prefers-color-scheme: dark)">
-  <img src="https://raw.githubusercontent.com/samibyte/statcard-repo/main/output/stats_langs.svg">
-</picture>
-<!-- Statistics: General statistics -->
-<picture>
-  <source srcset="https://raw.githubusercontent.com/samibyte/statcard-repo/main/output/stats_general.svg#gh-dark-mode-only"  media="(prefers-color-scheme: dark)">
-  <img src="https://raw.githubusercontent.com/samibyte/statcard-repo/main/output/stats_general.svg">
-</picture>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=samibyte&theme=shadow-blue&mode=weekly)](https://git.io/streak-stats)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=samibyte&label=Profile%20Views&color=38BDF8&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/samibyte?label=Followers&style=flat&color=38BDF8" alt="followers" />
 </p>
 
+<br>
 
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## 👋 About Me
+
+I'm a web developer who enjoys building things that feel simple to use and solid under the hood. I like breaking down ideas, understanding how they work, and turning them into clean, dependable interfaces.
+
+I'm early in my career, but intentional about how I grow — one project, one improvement, one solved problem at a time. I care about clarity, good design habits, and code that doesn't fight back.
+
+Currently, I'm focused on refining my skills, learning from real-world challenges, and contributing to teams where thoughtful work truly matters.
+
+<br>
+
+## 🚀 Currently
+
+- 🔭 Exploring **Next.js** and building server-driven React apps
+- 🌱 Deepening my understanding of **TypeScript** and clean architecture
+- 🛠️ Working on a **tourism website** as a personal project
+- 💡 Learning to write backend APIs that are simple, secure, and easy to reason about
+- 🤝 Open to collaborating on frontend-heavy or full-stack projects
+
+<br>
+
+## 🧰 Skills
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,py" alt="languages" />
+
+<br><br>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" alt="frontend" />
+
+<br><br>
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" alt="backend" />
+
+<br><br>
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,firebase,postman,vscode,linux" alt="tools" />
 
 </div>
 
+<br>
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samibyte) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/samibyt3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samibyte.web@gmail.com) 
+## 📊 GitHub Stats
 
-<img src="./wave.svg" alt="Hello world" width="1920">
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=samibyte&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samibyte&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Top Languages" height="165" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=samibyte&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samibyte&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=C9D1D9" alt="Contribution Graph" width="95%" />
+
+</div>
+
+<br>
+
+## 💬 Random Dev Quote
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
+</div>
+
+<br>
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/samibyte" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/samibyt3" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="mailto:samibyte.web@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<br>
+
+<img src="./wave.svg" alt="wave" width="100%">
