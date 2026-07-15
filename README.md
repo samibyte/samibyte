@@ -67,7 +67,9 @@ I'm always learning, improving my craft, and looking for opportunities to build 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=samibyte&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=C9D1D9" alt="Contribution Graph" width="95%" />
 
 </div>
-
+<p>
+  <img src="https://komarev.com/ghpvc/?username=samibyte&label=Profile%20Views&color=38BDF8&style=flat" alt="profile views" />
+</p>
 <br>
 
 ## 🔗 Connect With Me
@@ -82,10 +84,6 @@ I'm always learning, improving my craft, and looking for opportunities to build 
   <a href="mailto:samibyte.web@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=samibyte&label=Profile%20Views&color=38BDF8&style=flat" alt="profile views" />
 </p>
 <br>
 
