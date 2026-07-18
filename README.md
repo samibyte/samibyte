@@ -60,16 +60,18 @@ I'm always learning, improving my craft, and looking for opportunities to build 
 
 <div align="center">
 
-<img src="https://demolab.com" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=samibyte&count_private=true&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
 
 <br>
 
-<img src="https://vercel.app" alt="Contribution Graph" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samibyte&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=C9D1D9" alt="Contribution Graph" width="95%" />
 
 </div>
+
 <p>
   <img src="https://komarev.com/ghpvc/?username=samibyte&label=Profile%20Views&color=38BDF8&style=flat" alt="profile views" />
 </p>
+
 <br>
 
 ## 🔗 Connect With Me
